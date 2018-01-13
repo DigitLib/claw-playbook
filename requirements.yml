@@ -37,7 +37,11 @@
 - src: geerlingguy.drush
   name: drush
   version: 2.0.1
-
+  
 - src: geerlingguy.drupal-console
   name: drupal-console
   version: 1.1.0
+  
+  - src: geerlingguy.repo-remi
+  name: remi
+  version: 1.2.0 
