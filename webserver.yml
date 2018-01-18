@@ -6,7 +6,7 @@
   vars:
     php_enablerepo: "remi-php56"
     php_packages_state: "latest"
-    php_executable: "php56"
+    
     
   roles:
     - apache
